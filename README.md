@@ -14,4 +14,4 @@ it can reads the MIDI clock message in order to be synchronized with any DAW
 the next update should add some fonctionnalities such as:
 - 16 setp
 - 16 pattern and a selection menu for them
-- a saving system
+- saving system
